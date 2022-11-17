@@ -1,3 +1,4 @@
+# https://atcoder.jp/contests/abc165/tasks/abc165_a
 base = gets.chomp.to_i
 range_arr = gets.chomp.split(" ").map(&:to_i)
 
